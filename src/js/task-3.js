@@ -13,9 +13,6 @@ const images = [
   },
 ];
 
-// const gallery = document.querySelector("#gallery");
-// gallery.insertAdjacentHTML("beforeend", markup);
-
 const gallery = document.querySelector("#gallery");
 
 const imagesHtml = images
